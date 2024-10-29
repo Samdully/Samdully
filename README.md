@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Samdully
 - 👀 I’m interested in learning programming 
 - 🌱 I’m currently learning software devolopment 
-- 💞️ I’m looking to collaborate on i can start my carrer as working with company like micrtosoft 
 - 📫 How to reach me email: samdullystore@gmail.com
 
 <!---
